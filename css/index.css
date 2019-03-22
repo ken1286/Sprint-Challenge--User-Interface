@@ -210,3 +210,43 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+
+/* About page CSS */
+
+.top-content-about {
+    border-bottom: 1px dashed black;
+}
+
+.tca-text {
+    padding: 20px;
+}
+
+.about-main-content {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+.about-boxes {
+    width: 45%;
+    border-bottom: 1px dashed black;
+    margin-top: 30px;
+    padding: 10px;
+}
+
+.about-boxes h3 {
+    margin-top: 10px;
+}
+
+.about-boxes button {
+    padding: 10px 20px 10px 20px;
+    background-color: white;
+    border-radius: 10px;
+    border: 1px solid black;
+    margin: 10px 0 10px 0;
+}
+
+.about-lets-work {
+    padding: 25px;
+}
